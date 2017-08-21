@@ -7,5 +7,5 @@ exports.plugins = [
   require('retext-redundant-acronyms'),
   require('retext-repeated-words'),
   require('retext-indefinite-article'),
-  require('retext-contractions')
+  [require('retext-contractions'), {straight: true}]
 ];
