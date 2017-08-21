@@ -1,0 +1,36 @@
+{
+  "name": "retext-preset-github",
+  "version": "0.0.1",
+  "description": "GitHub prose style",
+  "license": "MIT",
+  "keywords": [
+    "retext",
+    "preset",
+    "github"
+  ],
+  "repository": "niftylettuce/retext-preset-github",
+  "bugs": "https://github.com/niftylettuce/retext-preset-niftylettuce/issues",
+  "author": "Nick Baugh <niftylettuce@gmail.com>",
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "retext-contractions": "^2.1.0",
+    "retext-diacritics": "^1.2.0",
+    "retext-indefinite-article": "^1.1.0",
+    "retext-quotes": "^2.0.0",
+    "retext-redundant-acronyms": "^1.2.0",
+    "retext-repeated-words": "^1.2.0",
+    "retext-sentence-spacing": "^2.0.0"
+  },
+  "devDependencies": {
+    "xo": "^0.18.2"
+  },
+  "scripts": {
+    "test": "xo"
+  },
+  "xo": {
+    "space": true,
+    "esnext": false
+  }
+}
