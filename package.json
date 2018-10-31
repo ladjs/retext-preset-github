@@ -5,16 +5,16 @@
   "author": "Nick Baugh <niftylettuce@gmail.com>",
   "bugs": "https://github.com/niftylettuce/retext-preset-niftylettuce/issues",
   "dependencies": {
-    "retext-contractions": "^2.1.0",
-    "retext-diacritics": "^1.2.0",
-    "retext-indefinite-article": "^1.1.0",
-    "retext-quotes": "^2.0.0",
-    "retext-redundant-acronyms": "^1.2.0",
-    "retext-repeated-words": "^1.2.0",
-    "retext-sentence-spacing": "^2.0.0"
+    "retext-contractions": "^2.1.2",
+    "retext-diacritics": "^1.2.1",
+    "retext-indefinite-article": "^1.1.4",
+    "retext-quotes": "^2.0.1",
+    "retext-redundant-acronyms": "^1.2.1",
+    "retext-repeated-words": "^1.2.1",
+    "retext-sentence-spacing": "^2.0.1"
   },
   "devDependencies": {
-    "xo": "^0.18.2"
+    "xo": "^0.23.0"
   },
   "files": [
     "index.js"
