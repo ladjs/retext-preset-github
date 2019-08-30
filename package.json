@@ -1,7 +1,7 @@
 {
   "name": "retext-preset-github",
   "description": "GitHub prose style",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "author": "Nick Baugh <niftylettuce@gmail.com>",
   "bugs": "https://github.com/niftylettuce/retext-preset-niftylettuce/issues",
   "dependencies": {
